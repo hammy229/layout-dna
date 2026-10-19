@@ -10,7 +10,7 @@ no results are claimed that the repo cannot reproduce.
   (`solver/`), joined by one versioned scene contract. No host application required.
 - **Green baseline:** `./scripts/check.sh` passes end to end — typecheck, lint, Prettier,
   the web test suite, the webpack build, `ruff`, `pytest`, and the evaluation harness.
-- **Tests:** 31 web-client tests (pure logic + jsdom component/integration) and 96 solver
+- **Tests:** 31 web-client tests (pure logic + jsdom component/integration) and 103 solver
   tests (gene proxies, reflow, collisions, text-fit, CLI, API, and the eval harness).
 - **Honest by construction:** gene scores are labeled geometric proxies, the solver is
   deterministic, re-layout is non-destructive, and dropped optional elements are named in the
