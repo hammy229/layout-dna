@@ -9,6 +9,13 @@ a Python solver service, joined by one versioned scene contract — no host appl
 **Engine flow:** source scene → layout analysis and gene fingerprint → deterministic role-aware
 reflow for the target canvas → before/after render plus a grounded explanation of the tradeoffs.
 
+## Project status
+
+Active development is paused — this is a portfolio-quality stopping point with a green
+`./scripts/check.sh` baseline (31 web-client tests, 96 solver tests). What works today and what
+is intentionally left as a placeholder for a future iteration is captured in
+[docs/NEXT_STEPS.md](docs/NEXT_STEPS.md).
+
 ## Why it exists
 
 Ordinary resize tools preserve pixels or apply generic reflow rules; they do not describe what
