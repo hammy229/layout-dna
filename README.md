@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+**Links:** [Architecture](docs/architecture.md) · [Evaluation](docs/evaluation.md) · [Next steps](docs/NEXT_STEPS.md) · [Arham Doshi](https://arhamdoshi.dev) · [LinkedIn](https://linkedin.com/in/arhamdoshi)
+
 Active development is paused at a portfolio-quality stopping point. What works today and what is left as a placeholder is in [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md).
 
 ## Results
