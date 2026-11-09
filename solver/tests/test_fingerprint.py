@@ -1,7 +1,7 @@
 """Unit tests for the six deterministic gene proxies and compute_fingerprint.
 
 These assert documented geometric behaviour only; the scores are proxies, not
-perceptual quality measures (see AGENTS.md).
+perceptual quality measures (see CONVENTIONS.md).
 """
 
 import pytest

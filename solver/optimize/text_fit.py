@@ -1,6 +1,6 @@
 """Approximate text-overflow estimation for solved layouts.
 
-This is an honest heuristic, NOT a real text layout engine (AGENTS.md: label
+This is an honest heuristic, NOT a real text layout engine (CONVENTIONS.md: label
 simulations clearly). It estimates whether a text element's content can still
 fit its solved box at a readable size after the reflow shrinks or reshapes the
 box. It never changes geometry and never drops text; it only reports a shortfall

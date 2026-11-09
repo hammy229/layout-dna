@@ -380,7 +380,7 @@ def _apply_drop_policy(
 
     Mandatory elements (optional is False) are never removed; neither are
     ``protected`` ids (groups whose subtree holds a mandatory descendant). This
-    keeps the AGENTS.md guarantee that mandatory design elements are not
+    keeps the CONVENTIONS.md guarantee that mandatory design elements are not
     silently hidden -- directly or via a dropped ancestor group.
     """
     kept = list(ordered)

@@ -14,7 +14,7 @@ no results are claimed that the repo cannot reproduce.
   tests (gene proxies, reflow, collisions, text-fit, CLI, API, and the eval harness).
 - **Honest by construction:** gene scores are labeled geometric proxies, the solver is
   deterministic, re-layout is non-destructive, and dropped optional elements are named in the
-  explanation trace (see `AGENTS.md`).
+  explanation trace (see `CONVENTIONS.md`).
 
 **Development is paused** as of the snapshot date; this repository is a portfolio-quality
 stopping point, not an actively maintained product.
